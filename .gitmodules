@@ -1,3 +1,0 @@
-[submodule "week-1/child"]
-	path = week-1/child
-	url = https://github.com/docker/getting-started-app.git
