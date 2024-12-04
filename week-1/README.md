@@ -88,3 +88,13 @@ The ```-p``` flag (short for ```--publish```) creates a port mapping between the
 2. After a few seconds, open your web browser to http://localhost:3000. You should see your app.
 
 3. Add an item or two and see that it works as you expect. You can mark items as complete and remove them. Your frontend is successfully storing items in the backend.
+
+## So Why Care about Docker?
+- Reproducibility
+- Local experiments
+- Integration tests (CI/CD)
+- Running pipelines on the cloud (AWS Batch, Kunerbetes jobs)
+- Spark
+- Serverless
+
+[You can watch this video](https://www.youtube.com/watch?v=EYNwNlOrpr0&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=7&t=387s)
